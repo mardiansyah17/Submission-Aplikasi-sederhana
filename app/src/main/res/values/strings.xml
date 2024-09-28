@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">MardiRecipes</string>
+    <string name="recipes_name">Nasi goreng enak</string>
+    <string name="recipe_desc">
+        Nasi goreng adalah makanan yang terbuat dari nasi yang digoreng dan diaduk dalam minyak goreng, biasanya
+        ditambah kecap manis, bawang merah, bawang putih, merica, lada hitam, garam, cabai merah, irisan daging
+        ayam, udang, atau telur, dan bahan lain seperti kecap inggris, saus tiram, atau sambal. Nasi goreng adalah
+        makanan yang populer di Indonesia dan Malaysia.
+    </string>
+    <string name="bahan_bahan">Bahan - Bahan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bagikan_resep_btn">Bagikan Resep</string>
+    <string name="my_name">Muhammad Mardiansyah</string>
+    <string name="my_email">mardiansyahm002@gmail.com</string>
+
+    <string-array name="title_recipes">
+        <item>Nasi Goreng</item>
+        <item>Ayam Goreng</item>
+        <item>Jus Buah Naga</item>
+        <item>Mie Goreng</item>
+        <item>Soto Ayam</item>
+        <item>Sate Ayam</item>
+        <item>Cireng</item>
+        <item>Sop Ayam</item>
+        <item>Nasi Kuning</item>
+        <item>Nasi Uduk</item>
+    </string-array>
+
+    <string-array name="desc_recipes">
+        <item>
+            Nasi goreng terbuat dari nasi yang digoreng dengan minyak, kecap, bawang, lada, cabai, dan irisan daging
+            atau telur. Populer di Indonesia dan Malaysia.
+        </item>
+        <item>
+            Ayam goreng adalah potongan ayam yang digoreng dalam minyak panas. Hidangan ini populer di seluruh dunia,
+            biasanya disajikan dengan nasi dan sambal.
+        </item>
+        <item>
+            Jus buah naga adalah minuman yang terbuat dari buah naga merah atau putih yang diblender dengan es, gula,
+            dan air. Jus ini segar dan populer di daerah tropis.
+        </item>
+
+        <item>
+            Mie goreng terbuat dari mie yang digoreng dalam minyak panas. Disajikan dengan telur, sayuran, dan bumbu.
+            Makanan populer di Indonesia dan Malaysia.
+        </item>
+        <item>
+            Soto ayam adalah kuah kaldu ayam yang gurih dengan potongan ayam. Biasanya disajikan dengan nasi, telur, dan
+            bumbu. Populer di Indonesia dan Malaysia.
+        </item>
+        <item>
+            Sate ayam adalah potongan ayam yang dipanggang dengan arang. Disajikan dengan bumbu kacang dan nasi.
+            Hidangan ini populer di Indonesia dan Malaysia.
+        </item>
+        <item>
+            Cireng adalah camilan gorengan yang terbuat dari tepung kanji dan bumbu. Biasanya disajikan dengan saus
+            kacang atau sambal. Camilan ini populer di Indonesia.
+        </item>
+        <item>
+            Sop ayam adalah potongan ayam dalam kuah kaldu ayam. Disajikan dengan nasi, telur, dan bumbu. Makanan ini
+            populer di Indonesia dan Malaysia.
+        </item>
+
+        <item>
+            Nasi kuning dimasak dengan kunyit dan santan. Biasanya disajikan dengan telur, ayam, dan bumbu lainnya.
+            Makanan ini populer di Indonesia dan Malaysia.
+        </item>
+        <item>
+            Nasi uduk adalah nasi yang dimasak dengan santan. Disajikan dengan telur, ayam, dan bumbu. Makanan ini
+            populer di Indonesia dan Malaysia.
+        </item>
+
+
+    </string-array>
+
+    <integer-array name="recipes_photo">
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/nasi_goreng</item>
+    </integer-array>
+
+</resources>

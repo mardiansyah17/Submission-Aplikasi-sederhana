@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Nasi Goreng",
+    "description": "Nasi goreng adalah salah satu masakan yang sangat populer di Indonesia. Hidangan ini terbuat dari nasi yang digoreng dengan berbagai bumbu, biasanya ditambahkan telur, ayam, dan sayuran. Nasi goreng memiliki cita rasa yang kaya dan bisa disajikan dengan acar, kerupuk, atau sambal. Selain itu, nasi goreng juga bisa disesuaikan dengan selera masing-masing, menjadikannya hidangan yang sangat fleksibel dan mudah dibuat.",
+    "photo": "nasi_goreng",
+    "ingredients": [
+      "2 piring nasi putih",
+      "2 butir telur",
+      "2 siung bawang putih",
+      "1 sendok makan kecap manis",
+      "1 sendok makan minyak goreng",
+      "Garam secukupnya"
+    ]
+  },
+  {
+    "title": "Sate Ayam",
+    "description": "Sate ayam adalah hidangan khas Indonesia yang terdiri dari potongan daging ayam yang ditusuk pada bambu dan dipanggang hingga matang. Daging ayam tersebut biasanya dibumbui dengan campuran rempah yang khas dan disajikan dengan bumbu kacang yang gurih. Sate ayam sangat cocok dinikmati saat acara makan bersama keluarga atau teman, dan sering kali dihidangkan dengan lontong atau nasi.",
+    "photo": "sate_ayam",
+    "ingredients": [
+      "500 gram daging ayam",
+      "10 tusuk sate",
+      "3 siung bawang putih",
+      "100 gram kacang tanah goreng",
+      "1 sendok makan kecap manis",
+      "Garam dan gula secukupnya"
+    ]
+  },
+  {
+    "title": "Es Teh Manis",
+    "description": "Es teh manis adalah minuman yang sangat menyegarkan dan menjadi favorit banyak orang, terutama saat cuaca panas. Minuman ini terbuat dari teh yang diseduh dan dicampur dengan gula, kemudian disajikan dengan es batu. Es teh manis dapat disajikan dalam berbagai variasi, seperti tambahan lemon atau daun mint, untuk memberikan rasa yang lebih segar dan menarik.",
+    "photo": "es_teh",
+    "ingredients": [
+      "1 kantung teh celup",
+      "2 sendok makan gula",
+      "200 ml air panas",
+      "Es batu secukupnya"
+    ]
+  },
+  {
+    "title": "Mie Goreng",
+    "description": "Mie goreng adalah hidangan mie yang digoreng dengan bumbu serta campuran sayuran dan daging yang membuatnya menjadi makanan yang lezat dan mengenyangkan. Hidangan ini sangat populer di berbagai kalangan dan bisa ditemukan di banyak restoran maupun warung makan. Mie goreng biasanya disajikan dengan telur dadar di atasnya dan sambal untuk menambah cita rasa pedas.",
+    "photo": "mie_goreng",
+    "ingredients": [
+      "200 gram mie telur",
+      "1 butir telur",
+      "1 siung bawang putih",
+      "1 sendok makan kecap manis",
+      "100 gram kol",
+      "Garam dan merica secukupnya"
+    ]
+  },
+  {
+    "title": "Sop Ayam",
+    "description": "Sop ayam adalah hidangan sup yang sangat populer di Indonesia, terutama saat cuaca dingin atau saat merasa kurang sehat. Sup ini terbuat dari daging ayam yang direbus bersama sayuran segar, seperti wortel dan kentang, serta bumbu-bumbu yang menambah kelezatan rasanya. Sop ayam disajikan hangat dan bisa dinikmati dengan nasi atau roti, menjadikannya hidangan yang mengenyangkan.",
+    "photo": "sop_ayam",
+    "ingredients": [
+      "500 gram daging ayam",
+      "1 buah wortel",
+      "2 buah kentang",
+      "2 siung bawang putih",
+      "1 liter air",
+      "Garam dan merica secukupnya"
+    ]
+  },
+  {
+    "title": "Es Campur",
+    "description": "Es campur adalah minuman segar yang sangat disukai di Indonesia, terutama di hari yang panas. Minuman ini terbuat dari campuran berbagai buah-buahan segar, agar-agar, dan sirup manis. Es campur dapat dibuat dengan berbagai kombinasi bahan, sehingga setiap orang bisa menyesuaikannya dengan selera masing-masing. Penyajian es campur yang berwarna-warni juga membuatnya sangat menarik.",
+    "photo": "es_campur",
+    "ingredients": [
+      "100 gram nangka",
+      "50 gram cincau",
+      "50 gram kelapa muda",
+      "1 sendok makan sirup merah",
+      "Es serut secukupnya"
+    ]
+  },
+  {
+    "title": "Bakso",
+    "description": "Bakso adalah bola daging yang sangat terkenal di Indonesia. Hidangan ini biasanya terbuat dari daging sapi giling yang dicampur dengan bumbu dan tepung. Bakso disajikan dalam kuah kaldu yang hangat dan sering kali dilengkapi dengan mi, tahu, atau sayuran. Bakso menjadi favorit banyak orang, baik sebagai camilan maupun hidangan utama, dan sering dijual di pedagang kaki lima.",
+    "photo": "bakso",
+    "ingredients": [
+      "500 gram daging sapi giling",
+      "100 gram tepung tapioka",
+      "1 butir telur",
+      "2 siung bawang putih",
+      "1 liter air kaldu",
+      "Garam dan merica secukupnya"
+    ]
+  },
+  {
+    "title": "Soto Ayam",
+    "description": "Soto ayam adalah salah satu sup tradisional Indonesia yang sangat terkenal. Hidangan ini menggunakan daging ayam sebagai bahan utama, dimasak dengan bumbu rempah yang khas, sehingga menghasilkan kuah berwarna kuning yang kaya rasa. Soto ayam biasanya disajikan dengan nasi, telur rebus, dan kerupuk, menjadikannya hidangan yang lezat dan mengenyangkan.",
+    "photo": "soto_ayam",
+    "ingredients": [
+      "500 gram daging ayam",
+      "1 batang serai",
+      "2 lembar daun jeruk",
+      "1 buah tomat",
+      "1 liter air",
+      "Garam dan kunyit secukupnya"
+    ]
+  },
+  {
+    "title": "Rendang",
+    "description": "Rendang adalah hidangan daging yang dimasak dengan santan dan rempah-rempah khas Minangkabau, yang dikenal dengan rasa yang kaya dan tekstur yang empuk. Proses memasak rendang memerlukan waktu yang cukup lama, sehingga semua bumbu dapat meresap ke dalam daging. Hidangan ini sangat cocok disajikan dalam berbagai acara, terutama saat perayaan, dan sering menjadi favorit di meja makan.",
+    "photo": "rendang",
+    "ingredients": [
+      "500 gram daging sapi",
+      "200 ml santan",
+      "3 siung bawang putih",
+      "2 batang serai",
+      "Garam dan cabai merah secukupnya"
+    ]
+  },
+  {
+    "title": "Jus Alpukat",
+    "description": "Jus alpukat adalah minuman sehat dan creamy yang terbuat dari buah alpukat matang. Alpukat kaya akan nutrisi dan lemak sehat, sehingga sangat baik untuk kesehatan. Dalam pembuatan jus alpukat, biasanya ditambahkan gula dan sedikit air untuk mendapatkan tekstur yang pas. Minuman ini cocok dinikmati sebagai camilan segar di siang hari atau sebagai menu sarapan yang bergizi.",
+    "photo": "jus_alpukat",
+    "ingredients": [
+      "1 buah alpukat",
+      "2 sendok makan gula",
+      "200 ml air",
+      "Es batu secukupnya"
+    ]
+  }
+]
